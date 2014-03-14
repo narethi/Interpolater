@@ -1,0 +1,3 @@
+This is a simple frame interpolater, it looks for the number of cycles it takes for 1 second to pass, and then can be 
+used to limit the number of frames per second by running them by regular increments proportional to the amount of 
+frames in a 2nd
